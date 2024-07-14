@@ -23,7 +23,8 @@ The DataPulse API is a powerful and flexible RESTful API designed to provide rea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DataPulse.git
+   git clone https://github.com/lnpotter/DataPulse.git # or
+   git clone https://github.com/yourusername/DataPulse.git # if you forked the repository
    cd DataPulse
    ```
 2. Install the required dependencies:
